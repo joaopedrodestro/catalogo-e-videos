@@ -1,6 +1,6 @@
 body {
     color: white;
-    background: rgb(23, 5, 180);
+    background: rgb(16, 5, 112);
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
     margin-bottom: 100px;
@@ -14,7 +14,7 @@ header {
 }
 
 .chamada {
-    background: rgb(18, 231, 143);
+    background: rgb(6, 175, 105);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
